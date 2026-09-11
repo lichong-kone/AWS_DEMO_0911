@@ -1,0 +1,151 @@
+{
+  "version": "3.0",
+  "screens": {
+    "desktop": [
+      "screens/desktop/00-welcome.svg",
+      "screens/desktop/01-character-select.svg",
+      "screens/desktop/02-home.svg",
+      "screens/desktop/03-backpack.svg",
+      "screens/desktop/04-shop.svg",
+      "screens/desktop/05-traveling.svg",
+      "screens/desktop/06-inbox.svg",
+      "screens/desktop/07-album.svg",
+      "screens/desktop/08-postcard-detail.svg",
+      "screens/desktop/09-map.svg",
+      "screens/desktop/10-destination-detail.svg",
+      "screens/desktop/11-souvenirs.svg",
+      "screens/desktop/12-achievements.svg",
+      "screens/desktop/13-profile-settings.svg",
+      "screens/desktop/14-trip-summary.svg"
+    ],
+    "mobile": [
+      "screens/mobile/00-welcome.svg",
+      "screens/mobile/01-home.svg",
+      "screens/mobile/02-backpack.svg",
+      "screens/mobile/03-traveling.svg",
+      "screens/mobile/04-album.svg",
+      "screens/mobile/05-map.svg"
+    ]
+  },
+  "assets": {
+    "brand": [
+      "assets/brand/logo-lockup.svg",
+      "assets/brand/logo-mark.svg"
+    ],
+    "characters": [
+      "assets/characters/frog-idle.svg",
+      "assets/characters/frog-mail.svg",
+      "assets/characters/frog-packing.svg",
+      "assets/characters/frog-reading.svg",
+      "assets/characters/frog-returning.svg",
+      "assets/characters/frog-sleeping.svg",
+      "assets/characters/frog-walking.svg",
+      "assets/characters/frog-waving.svg",
+      "assets/characters/hedgehog-idle.svg",
+      "assets/characters/otter-idle.svg"
+    ],
+    "nav": [
+      "assets/nav/achievement.svg",
+      "assets/nav/album.svg",
+      "assets/nav/home.svg",
+      "assets/nav/inbox.svg",
+      "assets/nav/map.svg",
+      "assets/nav/profile.svg",
+      "assets/nav/settings.svg",
+      "assets/nav/shop.svg"
+    ],
+    "resources": [
+      "assets/resources/clover.svg",
+      "assets/resources/leaf.svg",
+      "assets/resources/stone.svg",
+      "assets/resources/ticket.svg"
+    ],
+    "items": [
+      "assets/items/bell.svg",
+      "assets/items/berrytart.svg",
+      "assets/items/bottle.svg",
+      "assets/items/bread.svg",
+      "assets/items/camera.svg",
+      "assets/items/fourleaf.svg",
+      "assets/items/lantern.svg",
+      "assets/items/riceball.svg",
+      "assets/items/scarf.svg",
+      "assets/items/tent.svg",
+      "assets/items/umbrella.svg"
+    ],
+    "decor": [
+      "assets/decor/cloud.svg",
+      "assets/decor/compass.svg",
+      "assets/decor/leaf-corner.svg",
+      "assets/decor/mailbox.svg",
+      "assets/decor/paper-corner.svg",
+      "assets/decor/postmark.svg",
+      "assets/decor/pressed-flower.svg",
+      "assets/decor/route-dash.svg",
+      "assets/decor/signpost.svg",
+      "assets/decor/sparkle.svg",
+      "assets/decor/tape.svg"
+    ],
+    "map": [
+      "assets/map/fog.svg",
+      "assets/map/pin-locked.svg",
+      "assets/map/pin-new.svg",
+      "assets/map/pin-visited.svg",
+      "assets/map/route.svg"
+    ],
+    "states": [
+      "assets/states/empty-album.svg",
+      "assets/states/empty-mail.svg",
+      "assets/states/locked-destination.svg",
+      "assets/states/traveling.svg"
+    ],
+    "badges": [
+      "assets/badges/aurora.svg",
+      "assets/badges/collector.svg",
+      "assets/badges/first-postcard.svg",
+      "assets/badges/first-trip.svg",
+      "assets/badges/rainy.svg",
+      "assets/badges/ten-places.svg"
+    ],
+    "souvenirs": [
+      "assets/souvenirs/bj-brick.svg",
+      "assets/souvenirs/bj-candy.svg",
+      "assets/souvenirs/bj-leaf.svg",
+      "assets/souvenirs/bj-whistle.svg",
+      "assets/souvenirs/cm-bead.svg",
+      "assets/souvenirs/cm-coin.svg",
+      "assets/souvenirs/cm-flower.svg",
+      "assets/souvenirs/cm-umbrella.svg",
+      "assets/souvenirs/is-feather.svg",
+      "assets/souvenirs/is-shell.svg",
+      "assets/souvenirs/is-stone.svg",
+      "assets/souvenirs/is-wool.svg",
+      "assets/souvenirs/jp-cloth.svg",
+      "assets/souvenirs/jp-pebble.svg",
+      "assets/souvenirs/jp-teaspoon.svg",
+      "assets/souvenirs/jp-ticket.svg",
+      "assets/souvenirs/ky-bag.svg",
+      "assets/souvenirs/ky-fox.svg",
+      "assets/souvenirs/ky-leaf.svg",
+      "assets/souvenirs/ky-omamori.svg",
+      "assets/souvenirs/ma-date.svg",
+      "assets/souvenirs/ma-sand.svg",
+      "assets/souvenirs/ma-thread.svg",
+      "assets/souvenirs/ma-tile.svg",
+      "assets/souvenirs/no-driftwood.svg",
+      "assets/souvenirs/no-moss.svg",
+      "assets/souvenirs/no-scale.svg",
+      "assets/souvenirs/nz-fern.svg",
+      "assets/souvenirs/nz-stone.svg",
+      "assets/souvenirs/nz-wool.svg",
+      "assets/souvenirs/pa-page.svg",
+      "assets/souvenirs/pa-ribbon.svg",
+      "assets/souvenirs/pa-stamp.svg",
+      "assets/souvenirs/pa-sugar.svg",
+      "assets/souvenirs/sw-bell.svg",
+      "assets/souvenirs/sw-cheese.svg",
+      "assets/souvenirs/sw-flower.svg",
+      "assets/souvenirs/sw-rock.svg"
+    ]
+  }
+}

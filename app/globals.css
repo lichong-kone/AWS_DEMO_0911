@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #F4EBD8;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(167, 198, 107, 0.18), transparent 45%),
+    radial-gradient(circle at 80% 0%, rgba(106, 142, 160, 0.15), transparent 40%);
+  color: #2D3A2E;
+  min-height: 100vh;
+  /* subtle paper texture */
+  background-attachment: fixed;
+}
+
+/* Respect reduced-motion preference (NFR-5 / US-10.3) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+.paper-card {
+  background: #FBF6EA;
+  border: 1px solid rgba(45, 58, 46, 0.12);
+  border-radius: 20px;
+  box-shadow: 0 2px 10px rgba(45, 58, 46, 0.08);
+}
+
+*:focus-visible {
+  outline: 3px solid #6A8EA0;
+  outline-offset: 2px;
+}
